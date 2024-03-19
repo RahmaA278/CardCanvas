@@ -14,6 +14,6 @@
 A personalized study application where you can effortlessly craft your own flashcards and notes, all with a line-paper aesthetic. You can curate and revise your bespoke study material with ease.
 
 ### Reason for this project?
-While many note-taking apps exist, none quite capture the nostalgic essence of pen meeting paper. This project leverages CSS to recreated the familiar line-paper aesthetic, giving users the comforting feel of traditional notebooks in a digital format. The goal is to provide a seamless transition from offline to online note-taking, allowing users to effortlessly embrace the convenience of digital tools without sacrificing the familiar touch of pen and paper.
+While many note-taking apps exist, none quite capture the nostalgic essence of pen meeting paper. This project leverages CSS to recreated the familiar lined-paper aesthetic, giving users the comforting feel of traditional notebooks in a digital format. The goal is to provide a seamless transition from offline to online note-taking, allowing users to effortlessly embrace the convenience of digital tools without sacrificing the familiarity of pen and paper.
 
 After developing complexity and security in my applications, I was eager to explore React as a next step beyond vanilla JavaScript.
